@@ -1,0 +1,99 @@
+m,k,states,feasible transitions 3 3 100 720
+kap 0.01 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+kap 0.1 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+kap 0.5 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+kap 1.25 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 24
+kap 5.0 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+kap 20.0 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+kap 100.0 edges 336 cycle Scc 0 max_scc 1 sinks 10 bad_sinks 0 balanced_non_sinks 0 harm 12
+m,k,states,feasible transitions 4 3 225 1800
+kap 0.01 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 36
+kap 0.1 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 36
+kap 0.5 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 36
+kap 1.25 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 36
+kap 5.0 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 24
+kap 20.0 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 24
+kap 100.0 edges 864 cycle Scc 0 max_scc 1 sinks 15 bad_sinks 0 balanced_non_sinks 0 harm 24
+m,k,states,feasible transitions 5 3 441 3780
+kap 0.01 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 84
+kap 0.1 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 84
+kap 0.5 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 84
+kap 1.25 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 84
+kap 5.0 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 60
+kap 20.0 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 48
+kap 100.0 edges 1836 cycle Scc 0 max_scc 1 sinks 21 bad_sinks 0 balanced_non_sinks 0 harm 48
+m,k,states,feasible transitions 6 3 784 7056
+kap 0.01 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 156
+kap 0.1 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 144
+kap 0.5 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 168
+kap 1.25 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 168
+kap 5.0 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 96
+kap 20.0 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 72
+kap 100.0 edges 3456 cycle Scc 0 max_scc 1 sinks 28 bad_sinks 0 balanced_non_sinks 0 harm 72
+m,k,states,feasible transitions 8 3 2025 19440
+kap 0.01 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 408
+kap 0.1 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 396
+kap 0.5 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 348
+kap 1.25 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 372
+kap 5.0 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 264
+kap 20.0 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 144
+kap 100.0 edges 9600 cycle Scc 0 max_scc 1 sinks 45 bad_sinks 0 balanced_non_sinks 0 harm 144
+m,k,states,feasible transitions 10 3 4356 43560
+kap 0.01 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 792
+kap 0.1 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 756
+kap 0.5 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 780
+kap 1.25 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 708
+kap 5.0 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 492
+kap 20.0 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 276
+kap 100.0 edges 21600 cycle Scc 0 max_scc 1 sinks 66 bad_sinks 0 balanced_non_sinks 0 harm 240
+m,k,states,feasible transitions 15 3 18496 195840
+kap 0.01 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 2760
+kap 0.1 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 2676
+kap 0.5 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 2568
+kap 1.25 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 2484
+kap 5.0 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 1752
+kap 20.0 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 984
+kap 100.0 edges 97536 cycle Scc 0 max_scc 1 sinks 136 bad_sinks 0 balanced_non_sinks 0 harm 588
+m,k,states,feasible transitions 20 3 53361 582120
+kap 0.01 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 6576
+kap 0.1 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 6180
+kap 0.5 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 6120
+kap 1.25 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 5700
+kap 5.0 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 4308
+kap 20.0 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 2388
+kap 100.0 edges 290400 cycle Scc 0 max_scc 1 sinks 231 bad_sinks 0 balanced_non_sinks 0 harm 1092
+m,k,states,feasible transitions 4 4 1225 16800
+kap 0.01 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 264
+kap 0.1 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 264
+kap 0.5 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 288
+kap 1.25 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 384
+kap 5.0 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 192
+kap 20.0 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 192
+kap 100.0 edges 7752 cycle Scc 0 max_scc 1 sinks 35 bad_sinks 0 balanced_non_sinks 0 harm 192
+m,k,states,feasible transitions 6 4 7056 112896
+kap 0.01 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 2256
+kap 0.1 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 2112
+kap 0.5 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 2592
+kap 1.25 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 2640
+kap 5.0 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 1416
+kap 20.0 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 1152
+kap 100.0 edges 54144 cycle Scc 0 max_scc 1 sinks 84 bad_sinks 0 balanced_non_sinks 0 harm 1152
+m,k,states,feasible transitions 8 4 27225 475200
+kap 0.01 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 9768
+kap 0.1 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 9432
+kap 0.5 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 10128
+kap 1.25 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 10536
+kap 5.0 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 6192
+kap 20.0 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 3840
+kap 100.0 edges 231600 cycle Scc 0 max_scc 1 sinks 165 bad_sinks 0 balanced_non_sinks 0 harm 3840
+ablation 3 3 1.25 full edges 336 harmful 24 cyclic SCC 0 sinks 10 bad sinks 0
+ablation 3 3 1.25 local edges 324 harmful 12 cyclic SCC 0 sinks 10 bad sinks 0
+full only 12 local only 0
+ablation 8 4 1.25 full edges 231600 harmful 10536 cyclic SCC 0 sinks 165 bad sinks 0
+ablation 8 4 1.25 local edges 227760 harmful 6480 cyclic SCC 0 sinks 165 bad sinks 0
+full only 4056 local only 216
+ablation 20 3 1.25 full edges 290400 harmful 5700 cyclic SCC 0 sinks 231 bad sinks 0
+ablation 20 3 1.25 local edges 289296 harmful 4464 cyclic SCC 0 sinks 231 bad sinks 0
+full only 1236 local only 132
+leave-one-out identity: symbolic check passed
+declining local and total information example: type 1.0 from 1 to 2 A before [0 1 1 6] B before [0 3 5 0] A after [0 0 2 6] B after [0 3 5 0] q 8.065681444991789 7.82592660888807 x 1.380952380952381 1.3636363636363638 normalized payoff 0.4862483833449408 0.48745068889761595

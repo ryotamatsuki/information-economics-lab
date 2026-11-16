@@ -1,0 +1,31 @@
+numpy 2.3.5 sympy 1.14.0
+threshold-order squared gap: 2*(k**4 + 6*k**3 + 10*k**2 + 4*k + 1)/((k + 1)**2*(k + 2)*(k + 3)**2)
+majority departure numerator: 2*k*s - k + 2*n*s - n - s**2
+exact harmful deviation: 814/153 46/9 1 1 concentration 14 18
+V, B: 0.8230411442373131 0.8067012324399871 0.07734968984539858 0.07891642491260745
+base 2 2 0.001 profiles 4 NE 2
+base 2 2 0.1 profiles 4 NE 2
+base 2 2 1.25 profiles 4 NE 2
+base 2 2 10 profiles 4 NE 2
+base 2 2 1000 profiles 4 NE 2
+base 4 3 0.001 profiles 81 NE 15
+base 4 3 0.1 profiles 81 NE 15
+base 4 3 1.25 profiles 81 NE 15
+base 4 3 10 profiles 81 NE 15
+base 4 3 1000 profiles 81 NE 15
+base 6 3 0.001 profiles 729 NE 93
+base 6 3 0.1 profiles 729 NE 93
+base 6 3 1.25 profiles 729 NE 93
+base 6 3 10 profiles 729 NE 93
+base 6 3 1000 profiles 729 NE 93
+base 8 2 0.001 profiles 256 NE 70
+base 8 2 0.1 profiles 256 NE 70
+base 8 2 1.25 profiles 256 NE 70
+base 8 2 10 profiles 256 NE 70
+base 8 2 1000 profiles 256 NE 70
+base totals profiles 5350 deviations 57260 ties within tolerance 4140 harmful 1188
+original t thresholds (delta,alpha,gamma): 0.028663612090759804 0.06962054871285002 0.1312552263136127
+V efficient, inefficient, loss fraction 0.7136496464611084 0.44258672244243014 0.3798263270539577
+product 56 parameter cases 3584 full finite deviations
+endpoint price deviations 1208
+PASS on enumerated tests. General proofs in certification memo; no FIP theorem attempted.

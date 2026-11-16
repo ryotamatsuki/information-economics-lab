@@ -1,0 +1,42 @@
+minimal-N symbolic sign pairs (delta q, delta squared payoff), N= 2 {(1, 1): 1, (0, 0): 1, (-1, -1): 1}
+minimal-N symbolic sign pairs (delta q, delta squared payoff), N= 4 {(0, 0): 5, (-1, -1): 10, (1, 1): 10}
+m,k,t 3 3 0 profiles 729 NE 93 strict 93 NE V values [0.87403874] NE W range (np.float64(0.8740387444736633), np.float64(0.8740387444736633)) Wmax 0.8740387444736633 information-harmful moves 324 profitable & welfare-harmful moves 324 latter directly entering NE 0
+ representative NE [0 0 0 0 0 0] V 0.8740387444736633 W 0.8740387444736633 largest actual deviation gain -0.03016539957545783
+m,k,t 3 3 0.01 profiles 729 NE 93 strict 93 NE V values [0.87403874] NE W range (np.float64(0.8640387444736632), np.float64(0.8718859666958855)) Wmax 0.8718859666958855 information-harmful moves 324 profitable & welfare-harmful moves 180 latter directly entering NE 0
+ representative NE [0 0 0 0 0 0] V 0.8740387444736633 W 0.8640387444736632 largest actual deviation gain -0.02516539957545783
+m,k,t 3 3 0.05 profiles 729 NE 39 strict 39 NE V values [0.83906291 0.87403874] NE W range (np.float64(0.8240387444736632), np.float64(0.8632748555847743)) Wmax 0.8632748555847743 information-harmful moves 324 profitable & welfare-harmful moves 120 latter directly entering NE 0
+ representative NE [0 0 2 2 2 0] V 0.8390629128943413 W 0.8265629128943414 largest actual deviation gain -0.01018374576705166
+ representative NE [0 0 0 0 0 0] V 0.8740387444736633 W 0.8240387444736632 largest actual deviation gain -0.005165399575457828
+m,k,t 3 3 0.075 profiles 729 NE 37 strict 37 NE V values [0.83906291 0.87403874] NE W range (np.float64(0.8203129128943413), np.float64(0.85789291114033)) Wmax 0.85789291114033 information-harmful moves 324 profitable & welfare-harmful moves 72 latter directly entering NE 0
+ representative NE [0 0 2 2 2 0] V 0.8390629128943413 W 0.8203129128943413 largest actual deviation gain -0.022683745767051657
+ representative NE [0 1 1 1 0 1] V 0.8740387444736633 W 0.85789291114033 largest actual deviation gain -0.00179542089961501
+m,k,t 3 3 0.1 profiles 729 NE 7 strict 7 NE V values [0.83906291 0.87403874] NE W range (np.float64(0.8140629128943413), np.float64(0.8490387444736632)) Wmax 0.8525109666958854 information-harmful moves 324 profitable & welfare-harmful moves 72 latter directly entering NE 0
+ representative NE [0 0 2 2 2 0] V 0.8390629128943413 W 0.8140629128943413 largest actual deviation gain -0.03102048011463549
+ representative NE [1 1 1 1 1 1] V 0.8740387444736633 W 0.8490387444736632 largest actual deviation gain -0.012804288464346718
+m,k,t 3 3 0.2 profiles 729 NE 8 strict 8 NE V values [0.47401406 0.83906291] NE W range (np.float64(0.424014062474788), np.float64(0.7890629128943413)) Wmax 0.8309831889181077 information-harmful moves 324 profitable & welfare-harmful moves 72 latter directly entering NE 0
+ representative NE [0 0 0 2 2 2] V 0.474014062474788 W 0.424014062474788 largest actual deviation gain -0.004728434977630945
+ representative NE [0 0 2 2 2 0] V 0.8390629128943413 W 0.7890629128943413 largest actual deviation gain -0.04699270233685771
+Original six-firm move, line product-market extension at t=.075:
+move [0 1 2 0 1 1] z 0.8 Q 4.256209150326797 V 0.8230411442373131 B 0.0773496898453986 product profit 0.0 total profit 0.0773496898453986 travel coefficient 0.48263888888888884 W 0.7868432275706465 individual posterior variance 0.4461538461538461
+move [1 1 2 0 1 1] z 0.8 Q 4.0888888888888895 V 0.8067012324399873 B 0.07891642491260743 product profit 0.025520833333333333 total profit 0.10443725824594077 travel coefficient 0.21527777777777776 W 0.790555399106654 individual posterior variance 0.35238095238095235
+Eight-firm move, constant product-market profit and transport cost:
+move [0 2 1 1 1 2 2 0] z 0.8 Q 6.023529411764706 V 0.9791192372442539 B 0.06501963684825124 product profit 0.013020833333333332 total profit 0.07804047018158457 travel coefficient 0.53125 W 0.9392754872442539 individual posterior variance 0.4461538461538461
+move [2 2 1 1 1 2 2 0] z 0.8 Q 5.856209150326798 V 0.9654245874507746 B 0.0659419472678431 product profit 0.013020833333333332 total profit 0.07896278060117642 travel coefficient 0.53125 W 0.9255808374507747 individual posterior variance 0.3523809523809526
+Public information comparative static, original two-site four-firm game:
+residual r= 1
+m,k,t 2 2 0.075 profiles 16 NE 2 strict 2 NE V values [0.71364965] NE W range (np.float64(0.7011496464611084), np.float64(0.7011496464611084)) Wmax 0.7011496464611084 information-harmful moves 0 profitable & welfare-harmful moves 0 latter directly entering NE 0
+ representative NE [0 1 1 0] V 0.7136496464611084 W 0.7011496464611084 largest actual deviation gain -0.05183180604537991
+residual r= 0.5
+m,k,t 2 2 0.075 profiles 16 NE 2 strict 2 NE V values [0.71364965] NE W range (np.float64(0.7011496464611084), np.float64(0.7011496464611084)) Wmax 0.7011496464611084 information-harmful moves 0 profitable & welfare-harmful moves 0 latter directly entering NE 0
+ representative NE [0 1 1 0] V 0.7136496464611084 W 0.7011496464611084 largest actual deviation gain -0.04903933666529895
+residual r= 0.25
+m,k,t 2 2 0.075 profiles 16 NE 4 strict 4 NE V values [0.60314404 0.71364965] NE W range (np.float64(0.5906440350921075), np.float64(0.7011496464611084)) Wmax 0.7011496464611084 information-harmful moves 0 profitable & welfare-harmful moves 0 latter directly entering NE 0
+ representative NE [0 0 1 1] V 0.6031440350921075 W 0.5906440350921075 largest actual deviation gain -0.008664092565644287
+ representative NE [0 1 1 0] V 0.7136496464611084 W 0.7011496464611084 largest actual deviation gain -0.04563927439140699
+residual r= 0.1
+m,k,t 2 2 0.075 profiles 16 NE 4 strict 4 NE V values [0.66260706 0.71364965] NE W range (np.float64(0.6501070621976452), np.float64(0.7011496464611084)) Wmax 0.7011496464611084 information-harmful moves 0 profitable & welfare-harmful moves 0 latter directly entering NE 0
+ representative NE [0 0 1 1] V 0.6626070621976452 W 0.6501070621976452 largest actual deviation gain -0.0236753254590776
+ representative NE [0 1 1 0] V 0.7136496464611084 W 0.7011496464611084 largest actual deviation gain -0.04177086756057146
+residual r= 0
+m,k,t 2 2 0.075 profiles 16 NE 4 strict 4 NE V values [0.71364965] NE W range (np.float64(0.7011496464611084), np.float64(0.7011496464611084)) Wmax 0.7011496464611084 information-harmful moves 0 profitable & welfare-harmful moves 0 latter directly entering NE 0
+ representative NE [0 0 1 1] V 0.7136496464611084 W 0.7011496464611084 largest actual deviation gain -0.0375

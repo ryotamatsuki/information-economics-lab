@@ -1,0 +1,26 @@
+numpy 2.3.5 sympy 1.14.0
+majority-out numerator -S**2 + 2*S*d - d
+exact 1 2 1/100 states 4 strict edges 4 ties 0 harmful 0 NE 2 inefficient NE 0 constructive max length 1 DAG True longest DAG path 1
+exact 1 2 5/4 states 4 strict edges 4 ties 0 harmful 0 NE 2 inefficient NE 0 constructive max length 1 DAG True longest DAG path 1
+exact 1 2 100 states 4 strict edges 4 ties 0 harmful 0 NE 2 inefficient NE 0 constructive max length 1 DAG True longest DAG path 1
+exact 2 3 1/100 states 81 strict edges 288 ties 72 harmful 0 NE 15 inefficient NE 0 constructive max length 2 DAG True longest DAG path 4
+exact 2 3 5/4 states 81 strict edges 288 ties 72 harmful 0 NE 15 inefficient NE 0 constructive max length 2 DAG True longest DAG path 4
+exact 2 3 100 states 81 strict edges 288 ties 72 harmful 0 NE 15 inefficient NE 0 constructive max length 2 DAG True longest DAG path 4
+exact 3 3 1/100 states 729 strict edges 3996 ties 756 harmful 216 NE 93 inefficient NE 0 constructive max length 3 DAG True longest DAG path 9
+exact 3 3 5/4 states 729 strict edges 3996 ties 756 harmful 324 NE 93 inefficient NE 0 constructive max length 3 DAG True longest DAG path 9
+exact 3 3 100 states 729 strict edges 3996 ties 756 harmful 216 NE 93 inefficient NE 0 constructive max length 3 DAG True longest DAG path 7
+exact 4 3 1/100 states 6561 strict edges 49296 ties 6384 harmful 2880 NE 639 inefficient NE 0 constructive max length 4 DAG True longest DAG path 14
+exact 4 3 5/4 states 6561 strict edges 49296 ties 6384 harmful 2880 NE 639 inefficient NE 0 constructive max length 4 DAG True longest DAG path 12
+exact 4 3 100 states 6561 strict edges 49296 ties 6384 harmful 2304 NE 639 inefficient NE 0 constructive max length 4 DAG True longest DAG path 12
+exact harmful regression 814/153 46/9 1 1 V 0.8230411442373131 0.8067012324399871
+thresholds kappa 0.0001 all ceiling 0.4999387701550319 paired ceiling 0.09175340987974168 portfolio floor 0.8129373234106766
+thresholds kappa 0.01 all ceiling 0.49394938265386923 paired ceiling 0.0919150074956786 portfolio floor 0.7788724306211641
+thresholds kappa 0.1 all ceiling 0.44536153282227264 paired ceiling 0.09285529296596723 portfolio floor 0.6857926257579724
+thresholds kappa 1.25 all ceiling 0.1951112820081642 paired ceiling 0.08032964699947309 portfolio floor 0.36784219529706086
+thresholds kappa 5 all ceiling 0.06725767759208456 paired ceiling 0.0456205614716888 portfolio floor 0.16162500788642759
+thresholds kappa 100 all ceiling 0.003732541750546159 paired ceiling 0.0036361791372938046 portfolio floor 0.011022673312853504
+thresholds kappa 10000.0 all ceiling 3.749828096499819e-05 paired ceiling 3.748828471383803e-05 portfolio floor 0.00011247672437736389
+product full finite deviation calls 8512
+original t thresholds 0.06962054871284999 0.028663612090759804 0.13125522631361275 scale 0.1784124116152771
+V optimal and portfolio 0.7136496464611084 0.4425867224424302
+endpoint demand deviations and transportation cost checked
